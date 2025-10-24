@@ -1,18 +1,14 @@
 import { Injectable } from '@nestjs/common';
-import { Monster } from './types/types';
+import { Monster } from './types/globalTypes';
 import data from '../data/monsters.json';
 
 @Injectable()
 export class AppService {
   getAllMonsters(): Monster[] {
-    console.log(data);
-    return data.products.map((monster) => ({
-      id: monster.id,
-      name: monster.name,
-      price: monster.price,
-      type: monster.type,
-      description: monster.description,
-      imageUrl: monster.imageUrl,
-    }));
+    return data.products;
+  }
+
+  getMonsterById(id: number): Monster | undefined {
+    return data.products.find((monster) => monster.id === id);
   }
 }
