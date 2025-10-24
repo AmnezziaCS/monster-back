@@ -8,7 +8,17 @@ HoudMonster API is built with NestJS and provides endpoints to retrieve informat
 - `GET /monsters/:id` - Retrieve detailed information about a specific Monster Energy drink by its ID.
 - `GET /monsters/type/:type` - Retrieve Monster Energy drinks filtered by type (e.g., Ultra, Punch, Energy).
 
-## Data schema
+## Data types
+
+### Generate a file type for frontend
+
+You can generate TypeScript types for the API responses using the following command:
+
+```bash
+$ npm run generate:api
+```
+
+### The data structure of a Monster drink
 
 Each Monster drink object contains the following properties:
 
