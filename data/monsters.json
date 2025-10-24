@@ -803,418 +803,418 @@
     {
       "id": 101,
       "name": "Monster Energy Ultra Red",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/it",
+      "imageUrl": "https://www.listchallenges.com/f/items/81a25e54-4891-4ad6-a12e-aea3072cdc57.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a red berry flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a crisp, red fruit flavor."
     },
     {
       "id": 102,
-      "name": "Monster Energy Ultra Black",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/d7681c64-4e78-45b0-95dd-a8b273b4be68.jpg",
+      "name": "Monster Energy Ultra Watermelon",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/000b79ef-d2e1-4afb-95f4-2260f48f5b52.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a black cherry/dark fruit flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a refreshing watermelon flavor."
     },
     {
       "id": 103,
-      "name": "Monster Energy Ultra Blue",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/eb14532b-4560-4493-9c59-573515433d7b.jpg",
+      "name": "Monster Energy Ultra Rosa",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/5d320f66-749f-4ca4-86c0-d26e94320723.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a crisp, cool citrus flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a light, floral, and rosy citrus flavor."
     },
     {
       "id": 104,
-      "name": "Monster Energy Ultra Zero",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/37274092-26f6-45ef-b153-ec5277cc20fc.jpg",
+      "name": "Monster Energy Ultra Sunrise",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/72c480e0-ff57-4886-b2f3-bebdec2dd890.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with the original light citrus flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a bright, citrus orange flavor."
     },
     {
       "id": 105,
-      "name": "Monster Energy Ultra Sunrise",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/0187e834-0346-4ec8-b570-87a270f2d9c4.jpg",
+      "name": "Monster Energy Ultra Peachy Keen",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/5e722ff5-56dc-44f8-a9a2-e160fec9abf2.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with an orange citrus flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a smooth, peachy flavor."
     },
     {
       "id": 106,
-      "name": "Monster Energy Ultra Violet",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/197c36a2-9727-4c07-b648-8fccfcc0d1f7.jpg",
+      "name": "Monster Energy Ultra Sunrise",
+      "imageUrl": "https://www.listchallenges.com/f/items/15b51c19-6300-413f-a389-54989596d340.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a grape/citrus flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a bright, citrus orange flavor. (Duplicate entry in original list)"
     },
     {
       "id": 107,
-      "name": "Monster Energy Ultra Paradise",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/c9be015f-5593-4e89-9a25-950e393a557a.jpg",
+      "name": "Monster Energy Ultra Gold",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/f2f1de6e-256e-4ba4-90ab-0bbc51973d8a.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a bright, tropical kiwi-lime flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a refreshing golden pineapple flavor."
     },
     {
       "id": 108,
-      "name": "Monster Energy Ultra Rosa",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/a980753a-c5c2-409b-a774-889816ff25ec.jpg",
+      "name": "Monster Energy Ultra Citron",
+      "imageUrl": "https://www.listchallenges.com/f/items/66ef3b51-cf10-4b36-86de-a2232e4d9c27.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a bright floral and berry flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a sharp, lemon-lime citrus flavor."
     },
     {
       "id": 109,
-      "name": "Monster Energy Ultra Fiesta Mango",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/1217e660-f72b-449e-8c5c-7d9b922262d5.jpg",
+      "name": "Monster Energy Ultra Paradise",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/c8f6ce07-9fa9-453e-b795-b94bbd1fe589.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a sweet mango flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with an elusive blend of tropical flavors."
     },
     {
       "id": 110,
-      "name": "Monster Energy Ultra Gold",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/c2ce91c6-2c1b-4375-a0ed-9b2f6723b7ff.jpg",
+      "name": "Monster Energy Ultra Fiesta Mango",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/fee2b396-d7dd-43f1-8b58-c38614f8b895.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a golden pineapple flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a sweet and tangy mango flavor."
     },
     {
       "id": 111,
-      "name": "Monster Energy Ultra Watermelon",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/7d8a666e-2144-46c5-afc7-5e6878b4b74e.jpg",
+      "name": "Monster Energy Ultra Blue",
+      "imageUrl": "https://www.listchallenges.com/f/items/d5c6bf11-7979-4b44-b97a-dc3b6eb95395.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a juicy watermelon flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a frosted, crisp citrus-berry flavor."
     },
     {
       "id": 112,
-      "name": "Monster Energy Ultra Peachy Keen",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items/0a1a8c3d-f2e2-45a7-932f-762261a8684d.jpg",
+      "name": "Monster Energy Ultra Violet",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/849b42f2-d930-48dd-a95b-399d0071cf4f.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a sweet peach flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a grape citrus flavor inspired by the '70s."
     },
     {
       "id": 113,
-      "name": "Monster Energy Ultra Strawberry Dreams",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/182e0e56-11b3-4f9e-a89e-4c7283626154.jpg",
+      "name": "Monster Energy Ultra Black",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/eccedd26-4f52-4f38-b31c-78c5056fbc53.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a sweet strawberry and cream flavor."
+      "price": 2.99,
+      "description": "Zero sugar Ultra energy drink with a black cherry flavor."
     },
     {
       "id": 114,
-      "name": "Monster Energy Ultra Fantasy Ruby Red",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/850558b3-1f19-482f-87d2-79011e3b3986.jpg",
+      "name": "Monster Energy Ultra",
+      "imageUrl": "https://www.listchallenges.com/f/items/4f89be56-2dda-4d2d-a88d-f67e385e4b28.jpg",
       "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a ruby red grapefruit flavor."
+      "price": 2.99,
+      "description": "The original zero sugar Ultra energy drink with a light citrus flavor."
     },
     {
       "id": 115,
-      "name": "Monster Energy Ultra Reserve White Pineapple",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/12e2e92c-6338-4e56-9d32-d1e92d849fa9.jpg",
-      "type": "Ultra",
-      "description": "Zero sugar, light, crisp, and refreshing with a unique white pineapple flavor."
+      "name": "Monster Hydro Energy Water Watermelon",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/db0c2b6d-3d42-4de4-b99b-596d80f346df.jpg",
+      "type": "Hydro",
+      "price": 2.99,
+      "description": "Non-carbonated energy water with electrolytes and a refreshing watermelon flavor."
     },
     {
       "id": 116,
-      "name": "Monster Energy Ultra Red 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/2855f308-251d-4054-934c-2831518f8e02.jpg",
-      "type": "Ultra",
-      "description": "Ultra Red (zero sugar, berry flavor) in a large 710ml can."
+      "name": "Monster Hydro Manic Melon",
+      "imageUrl": "https://www.listchallenges.com/f/items/3c7a28c9-b990-4f02-b36a-3fb4a696dbf5.jpg",
+      "type": "Hydro",
+      "price": 2.99,
+      "description": "Non-carbonated energy water with electrolytes and a manic melon flavor."
     },
     {
       "id": 117,
-      "name": "Monster Energy Ultra Blue 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/b39352e0-25e4-42f8-a0e2-8b64e6b5711c.jpg",
-      "type": "Ultra",
-      "description": "Ultra Blue (zero sugar, crisp citrus flavor) in a large 710ml can."
+      "name": "Monster Hydro Tropical Thunder",
+      "imageUrl": "https://www.listchallenges.com/f/items/154fd483-7b6d-4a65-a538-842cc37ce553.jpg",
+      "type": "Hydro",
+      "price": 2.99,
+      "description": "Non-carbonated energy water with electrolytes and a powerful tropical flavor."
     },
     {
       "id": 118,
-      "name": "Monster Hydro Sport Watermelon",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/22585f98-96f3-4e4b-a79d-3e5898806294.jpg",
+      "name": "Monster Hydro Mean Green",
+      "imageUrl": "https://www.listchallenges.com/f/items/cd668371-0eb2-4fcd-b8ec-283bd9222c75.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and a watermelon flavor."
+      "price": 2.99,
+      "description": "Non-carbonated energy water with electrolytes and a bold green apple flavor."
     },
     {
       "id": 119,
-      "name": "Monster Hydro Sport Blue Streak",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/7a16e534-118c-42b7-88e8-9ef4ec4f3319.jpg",
+      "name": "Monster Hydro Blue Ice",
+      "imageUrl": "https://www.listchallenges.com/f/items/c47b9144-def0-4816-be1e-40bb524a65f3.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and a blue raspberry flavor."
+      "price": 2.99,
+      "description": "Non-carbonated energy water with electrolytes and a crisp blue raspberry flavor."
     },
     {
       "id": 120,
-      "name": "Monster Hydro Sport Red Dawg",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/e861a86b-a2ed-4433-8c46-13d853e5ffb6.jpg",
+      "name": "Monster Hydro Purple Passion",
+      "imageUrl": "https://www.listchallenges.com/f/items/b3d52a40-984d-445a-b112-53aa9bcb7538.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and a red berry flavor."
+      "price": 2.99,
+      "description": "Non-carbonated energy water with electrolytes and a rich purple grape flavor."
     },
     {
       "id": 121,
-      "name": "Monster Hydro Sport Green",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/5d4f2430-802c-4740-9b4e-862d04a6e55c.jpg",
+      "name": "Monster Hydro Zero Sugar",
+      "imageUrl": "https://www.listchallenges.com/f/items/554c53bd-4c9d-4fef-9de0-ed8aacb1559c.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and a lime/green apple flavor."
+      "price": 2.99,
+      "description": "Zero sugar, non-carbonated energy water with electrolytes."
     },
     {
       "id": 122,
-      "name": "Monster Hydro Sport Orange Burst",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/5021e16f-96a8-444f-8360-1e56b4f738fe.jpg",
+      "name": "Monster Hydro Hydro Sport Hang",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/fac6d056-bb55-450e-b191-71e1426e130a.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and an orange flavor."
+      "price": 2.99,
+      "description": "Hydro Sport formula designed for hydration and energy."
     },
     {
       "id": 123,
-      "name": "Monster Hydro Tropical Thunder",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/4a581454-e0ce-4384-9337-024564c7b80a.jpg",
+      "name": "Hydro Sport Charge Bottle",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/55e037ca-964c-40d2-a132-d697e6894332.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy drink with a burst of tropical flavor."
+      "price": 2.99,
+      "description": "Hydro Sport formula designed for hydration and a sustained charge of energy."
     },
     {
       "id": 124,
-      "name": "Monster Hydro Sport Streak",
-      "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/d19ef84a-5b1e-451e-8488-c70a2a4b0870.jpg",
+      "name": "Monster Hydro Sport Strike",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/6a39a9be-f311-4cfd-bbce-2ff86035cb01.jpg",
       "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and a mixed berry flavor."
+      "price": 2.99,
+      "description": "Hydro Sport formula with an invigorating strike of flavor and energy."
     },
     {
       "id": 125,
-      "name": "Monster Hydro Sport Blue Ice",
+      "name": "Monster Super Cola",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/3a025194-a4c1-45b0-aa9a-f5a2b5b6a66f.jpg",
+      "type": "Energy",
       "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/e4d021c5-8490-496a-a63e-e61a3579124a.jpg",
-      "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy water with electrolytes and a cool, blue ice flavor."
+      "description": "A supercharged energy drink with a classic cola flavor."
     },
     {
       "id": 126,
-      "name": "Monster Hydro Maniac Melon",
+      "name": "Monster M3",
+      "imageUrl": "https://www.listchallenges.com/f/items/3a3069e1-a001-4727-a303-990c585cbc38.jpg",
+      "type": "Energy",
       "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/27a96434-601e-47f9-8d76-e13768f54131.jpg",
-      "type": "Hydro",
-      "description": "A non-carbonated, lightly sweetened energy drink with a vibrant melon flavor."
+      "description": "A potent, concentrated energy shot in a bottle."
     },
     {
       "id": 127,
-      "name": "Monster Hydro Sport Time Out Tea",
+      "name": "Monster Energy Extra Strenght M3",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/0ca01167-69eb-4dc4-b374-6bc4c8bc047c.jpg",
+      "type": "Energy",
       "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/556770f3-8b7c-47b2-a4f6-7b87c7ef47a3.jpg",
-      "type": "Hydro",
-      "description": "A non-carbonated tea and energy blend for hydration and a moment to 'Time Out'."
+      "description": "Extra strength, concentrated M3 energy formula."
     },
     {
       "id": 128,
-      "name": "Monster Hydro Zero Sugar",
+      "name": "Monster Energy M³",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/602c5fd2-8bea-4d08-b4a9-29ea0f21d7e0.jpg",
+      "type": "Energy",
       "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/b3b0d249-14a4-4f05-802e-d096a6035205.jpg",
-      "type": "Hydro",
-      "description": "A non-carbonated, zero sugar energy water blend for maximum hydration."
+      "description": "A concentrated energy drink in a small bottle format (M cubed)."
     },
     {
       "id": 129,
-      "name": "Monster Energy The Beast",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/5af70498-3f5f-4a00-84c9-c16e7894a8c9.jpg",
+      "name": "Monster Energy Baller's Blend",
+      "imageUrl": "https://www.listchallenges.com/f/items/879a3b9c-a2c9-4677-a077-6417a866fafa.jpg",
       "type": "Energy",
-      "description": "A classic Monster energy blend, often referring to the original or extra-large size."
+      "price": 2.99,
+      "description": "An original Monster Energy blend with a unique flavor profile."
     },
     {
       "id": 130,
-      "name": "Monster Energy Full Throttle",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/68d5069b-8e1c-40f4-904b-325d97f1f0a2.jpg",
+      "name": "Monster Energy Mad Dog",
+      "imageUrl": "https://www.listchallenges.com/f/items/3d6209a5-8c4a-4ef6-9960-7676844b54e8.jpg",
       "type": "Energy",
-      "description": "A high-octane Monster blend with a powerful, invigorating flavor."
+      "price": 2.99,
+      "description": "A bold Monster Energy flavor, often retired or a regional exclusive."
     },
     {
       "id": 131,
-      "name": "Monster Energy Original",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/3358dfce-d1c9-4475-87ff-2092c2dfc116.jpg",
+      "name": "The Original Monster Energy Super-Premium Import",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/1dde9243-6626-46b4-8c53-2b302b391902.jpg",
       "type": "Energy",
-      "description": "The original Monster Energy flavor and formula."
+      "price": 2.99,
+      "description": "A premium imported version of the original Monster Energy formula."
     },
     {
       "id": 132,
-      "name": "Monster Energy Lo-Carb",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/19448025-b461-4603-ad37-29e875152a55.jpg",
+      "name": "Monster Energy Import Light",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/35e43137-141e-48bf-b71b-9003bfdeaace.jpg",
       "type": "Energy",
-      "description": "The original Monster flavor with fewer carbohydrates and calories."
+      "price": 2.99,
+      "description": "A light, lower-calorie imported version of the original Monster Energy."
     },
     {
       "id": 133,
-      "name": "Monster Energy Absolutely Zero",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/411f5d22-1f48-47ac-872f-537482af80b9.jpg",
+      "name": "Übermonster Bottle",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/aa74e38d-f4aa-4a6f-98a5-f35c2a5058ec.jpg",
       "type": "Energy",
-      "description": "The original Monster flavor profile with absolutely no sugar."
+      "price": 2.99,
+      "description": "An energy brew in a resealable glass bottle, often with a premium blend."
     },
     {
       "id": 134,
-      "name": "Monster Energy Extra Strength Black Ice",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/01b87b70-74b8-4e33-9111-e6df94297af1.jpg",
+      "name": "Ubermonster",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/a6d80a5e-6176-4742-8cb1-40de3217f59b.jpg",
       "type": "Energy",
-      "description": "An extra strength Monster blend with a cool 'Black Ice' flavor."
+      "price": 2.99,
+      "description": "A premium, super-sized Monster drink."
     },
     {
       "id": 135,
-      "name": "Monster Energy Nitrous Super Dry",
+      "name": "Hydro Super Sport Red Dawg Bottle",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/eae60869-0456-480f-81c3-e429f74b4453.jpg",
+      "type": "Hydro",
       "price": 2.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/3f081467-f49c-4573-979a-a82f80c6c4cc.jpg",
-      "type": "Energy",
-      "description": "A nitrous oxide-infused Monster for a unique texture with a crisp, dry flavor."
+      "description": "Hydro Super Sport formula in a bottle with a bold red flavor."
     },
     {
       "id": 136,
-      "name": "Monster Energy Super Fuel SubZero",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/8e310065-9839-4d32-9014-41d8b671a547.jpg",
-      "type": "Energy",
-      "description": "A non-carbonated Super Fuel energy blend with electrolytes and a sub-zero cool flavor."
+      "name": "Hydro Super Sport Macho Mango Bottle",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/032d81a3-ec9b-4548-a21c-1a27ad1a6387.jpg",
+      "type": "Hydro",
+      "price": 2.99,
+      "description": "Hydro Super Sport formula in a bottle with a powerful mango flavor."
     },
     {
       "id": 137,
-      "name": "Monster Energy Super Fuel Redline",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/b1a85117-640f-48e6-a81d-72dd615c0e2a.jpg",
-      "type": "Energy",
-      "description": "A non-carbonated Super Fuel energy blend with electrolytes and a red berry flavor."
+      "name": "Hydro Super Sport Killer Kiwi Bottle",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/029ed690-e909-40a6-bf31-f4de29b99ef3.jpg",
+      "type": "Hydro",
+      "price": 2.99,
+      "description": "Hydro Super Sport formula in a bottle with a sharp kiwi flavor."
     },
     {
       "id": 138,
-      "name": "Monster Energy Super Fuel Mean Green",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/a8be0471-a481-432d-8692-0b5c160e1d00.jpg",
-      "type": "Energy",
-      "description": "A non-carbonated Super Fuel energy blend with electrolytes and a sharp green apple/citrus flavor."
+      "name": "Hydro Super Sport Blue Streak",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/5baf189d-f9f7-41f7-bf07-865c237f76cb.jpg",
+      "type": "Hydro",
+      "price": 2.99,
+      "description": "Hydro Super Sport formula with a fast-acting blue raspberry flavor."
     },
     {
       "id": 139,
-      "name": "Monster Energy Super Fuel Blue Ice",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/7c604ec2-e427-4c74-884c-efc2cc70cc8b.jpg",
+      "name": "Monster Nitrous Killer-B",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/03651676-b5a9-49a6-9153-082a86b0d49d.jpg",
       "type": "Energy",
-      "description": "A non-carbonated Super Fuel energy blend with electrolytes and a cool, blue ice flavor."
+      "price": 2.99,
+      "description": "High-pressure, nitrous-oxide charged energy drink with a killer berry flavor."
     },
     {
       "id": 140,
-      "name": "Monster Reserve Watermelon",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/16147414-b040-410a-8106-a0063228801d.jpg",
+      "name": "Monster Energy Anti Gravity",
+      "imageUrl": "https://www.listchallenges.com/f/items/8c7b7a31-f885-4922-86a9-33450978eb78.jpg",
       "type": "Energy",
-      "description": "A full-sugar, carbonated energy blend with an intense, juicy watermelon flavor."
+      "price": 2.99,
+      "description": "An original Monster Energy flavor blend."
     },
     {
       "id": 141,
-      "name": "Monster Reserve White Pineapple",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/83597c5f-33c9-4c57-a3a2-2579b291d90f.jpg",
+      "name": "Super Dry",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/81f22450-7af3-468e-9c7d-cf10fed08cd8.jpg",
       "type": "Energy",
-      "description": "A full-sugar, carbonated energy blend with a unique, rich white pineapple flavor."
+      "price": 2.99,
+      "description": "A super-dry, crisp flavor energy drink."
     },
     {
       "id": 142,
-      "name": "Monster Reserve Kiwi Strawberry",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/85363406-8968-45ac-9b98-3a95d5223c67.jpg",
+      "name": "Monster Energy Black-Ice",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/d217d730-f3c7-4eb1-942c-82653433f27e.jpg",
       "type": "Energy",
-      "description": "A full-sugar, carbonated energy blend with a refreshing kiwi-strawberry flavor."
+      "price": 2.99,
+      "description": "An ice-cold, dark flavor blend of Monster Energy."
     },
     {
       "id": 143,
-      "name": "Monster Reserve Orange Dreamsicle",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/50531238-d65e-4903-85b9-47866380c55f.jpg",
+      "name": "Monster Nitro Super Dry",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/d0f478e0-38d6-45c5-b60c-9ed921dec01c.jpg",
       "type": "Energy",
-      "description": "A full-sugar, carbonated energy blend featuring a creamy orange popsicle flavor."
+      "price": 2.99,
+      "description": "A super-dry energy drink infused with nitrous oxide for a unique texture."
     },
     {
       "id": 144,
-      "name": "Monster Energy Pacific Punch",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2020/6c7a6e13-2d25-4c07-b690-b1d556488771.jpg",
-      "type": "Punch",
-      "description": "A blend of tropical juices including apple, orange, pineapple, and cherry, with the Monster energy mix."
+      "name": "Monster Mutant Red Dawn",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/ee4e7679-717b-4713-9182-ec3b91d13c9a.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "A potent 'Mutant' formula energy drink with a bold red fruit flavor."
     },
     {
       "id": 145,
-      "name": "Monster Energy Aussie Style Lemonade",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/1628d052-a633-4f9e-8c39-385012e84d94.jpg",
+      "name": "Monster Mutant White Lightning",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/a02dad86-da4b-4afa-b63d-f71987d52caf.jpg",
       "type": "Energy",
-      "description": "A classic Monster energy blend with a crisp, slightly sweet Australian-style lemonade flavor."
+      "price": 2.99,
+      "description": "A potent 'Mutant' formula energy drink with a crisp, electric flavor."
     },
     {
       "id": 146,
-      "name": "Monster Energy Mango Loco 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/b77f9506-c878-43d8-a1e6-b9b22416fa48.jpg",
-      "type": "Punch",
-      "description": "The Mango Loco juice/energy blend in a large 710ml can."
+      "name": "Monster Mutant Original Green",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/1f41d0d3-d79c-4b6f-a1cb-64d1cda0633f.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "The original 'Mutant' formula energy drink with a classic flavor."
     },
     {
       "id": 147,
-      "name": "Monster Energy Pipeline Punch 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/35534c03-51ef-4299-8588-e9f0612c98d7.jpg",
-      "type": "Punch",
-      "description": "The Pipeline Punch tropical blend in a large 710ml can."
+      "name": "Monster Mutant Gold Strike",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/0a6db43f-b683-4c61-995f-35342bc2f585.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "A potent 'Mutant' formula energy drink with a golden citrus flavor."
     },
     {
       "id": 148,
-      "name": "Monster Energy Lewis Hamilton (LH44) Zero Sugar",
-      "price": 2.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2023/6a297960-466d-4950-8b1b-680456247c1a.jpg",
+      "name": "Monster Mutant Red Dawn",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/150a720c-ad8e-4474-9159-d2774d0c74ca.jpg",
       "type": "Energy",
-      "description": "A zero-sugar signature blend inspired by Formula 1 driver Lewis Hamilton (LH44)."
+      "price": 2.99,
+      "description": "A potent 'Mutant' formula energy drink with a bold red fruit flavor. (Duplicate entry in original list)"
     },
     {
       "id": 149,
-      "name": "Monster Energy Ultra Gold 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/790ff1ce-4217-4581-8b3d-4c3d2e68407a.jpg",
-      "type": "Ultra",
-      "description": "Ultra Gold (zero sugar, pineapple) in a large 710ml can."
+      "name": "Monster Mutant",
+      "imageUrl": "https://www.listchallenges.com/f/items2022/bc1ee191-36df-4fec-bfb5-0acf524f9de1.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "A core 'Mutant' line energy drink."
     },
     {
       "id": 150,
-      "name": "Monster Energy Ultra Watermelon 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/e13f41c3-2d2f-410a-8677-446730a91e4f.jpg",
-      "type": "Ultra",
-      "description": "Ultra Watermelon (zero sugar) in a large 710ml can."
+      "name": "Monster Energy Absolutely Zero",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/1f3f8631-2b52-4b50-82f4-20914f7513fe.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "Zero sugar, zero calorie version of the original Monster flavor."
     },
     {
       "id": 151,
-      "name": "Monster Energy Ultra Paradise 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/b61cc080-60b5-40b9-8d77-6ef1f43574ed.jpg",
-      "type": "Ultra",
-      "description": "Ultra Paradise (zero sugar, kiwi-lime) in a large 710ml can."
+      "name": "Monster Energy Absolutely Zero",
+      "imageUrl": "https://www.listchallenges.com/f/items2020/9053cdca-7375-4e1f-9f4d-e0fcb18858fc.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "Zero sugar, zero calorie version of the original Monster flavor. (Duplicate entry in original list)"
     },
     {
       "id": 152,
-      "name": "Monster Energy Ultra Fiesta Mango 710Ml",
-      "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/e09e1e75-c960-4357-9d7a-115865a77f72.jpg",
-      "type": "Ultra",
-      "description": "Ultra Fiesta Mango (zero sugar, mango) in a large 710ml can."
+      "name": "The Original Zero-Sugar Monster Energy",
+      "imageUrl": "https://www.listchallenges.com/f/items2021/4eacf028-932d-4390-ad61-30a9010c88de.jpg",
+      "type": "Energy",
+      "price": 2.99,
+      "description": "The original taste of Monster Energy, but with zero sugar."
     }
   ]
 }
