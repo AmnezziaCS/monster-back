@@ -18,6 +18,8 @@ You can generate TypeScript types for the API responses using the following comm
 $ npm run generate:api
 ```
 
+A file of that type should already be generated in `./src/types/api-types.ts`. It is regenerated after every commit.
+
 ### The data structure of a Monster drink
 
 Each Monster drink object contains the following properties:
