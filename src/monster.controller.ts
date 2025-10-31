@@ -9,7 +9,7 @@ import {
 import { MonsterService } from './monster.service';
 import { ApiTags, ApiParam, ApiOkResponse } from '@nestjs/swagger';
 import { MonsterDto } from './dto/monster.dto';
-import { VALID_MONSTER_TYPES } from 'types/globalTypes';
+import { VALID_MONSTER_TYPES } from 'constants/const';
 import { GetMonstersQueryDto } from 'dto/get-monsters-query.dto';
 
 @ApiTags('Monsters')

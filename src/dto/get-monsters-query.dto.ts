@@ -1,6 +1,7 @@
 import { ApiPropertyOptional } from '@nestjs/swagger';
 import { IsEnum, IsNumber, IsOptional, IsString, Min } from 'class-validator';
-import { MonsterType, VALID_MONSTER_TYPES } from '../types/globalTypes';
+import { MonsterType } from '../types/types';
+import { VALID_MONSTER_TYPES } from 'constants/const';
 
 export class GetMonstersQueryDto {
   @ApiPropertyOptional({

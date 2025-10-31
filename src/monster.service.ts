@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Monster, MonsterType, MonsterData } from './types/globalTypes';
+import { Monster, MonsterType, MonsterData } from './types/types';
 import rawData from '../data/monsters.json';
 import { GetMonstersQueryDto } from 'dto/get-monsters-query.dto';
 

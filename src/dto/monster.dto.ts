@@ -1,5 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { VALID_MONSTER_TYPES } from '../types/globalTypes';
+import { VALID_MONSTER_TYPES } from 'constants/const';
+import { MonsterType } from 'types/types';
 
 export class MonsterDto {
   @ApiProperty({ example: 1 })
@@ -13,7 +14,7 @@ export class MonsterDto {
     example: 'Ultra',
     description: 'The Monster product type (e.g., Ultra, Punch, Energy).',
   })
-  type: (typeof VALID_MONSTER_TYPES)[number];
+  type: MonsterType;
 
   @ApiProperty({
     example:

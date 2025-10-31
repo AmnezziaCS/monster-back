@@ -56,11 +56,10 @@
   },
   "jest": {
     "moduleFileExtensions": [
-      "js",
-      "json",
-      "ts"
+      "ts",
+      "js"
     ],
-    "rootDir": "src",
+    "rootDir": "",
     "testRegex": ".*\\.spec\\.ts$",
     "transform": {
       "^.+\\.(t|j)s$": "ts-jest"
@@ -68,6 +67,11 @@
     "collectCoverageFrom": [
       "**/*.(t|j)s"
     ],
+    "moduleNameMapper": {
+      "^constants/(.*)$": "<rootDir>/src/constants/$1",
+      "^dto/(.*)$": "<rootDir>/src/dto/$1",
+      "^types/(.*)$": "<rootDir>/src/types/$1"
+    },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   }
