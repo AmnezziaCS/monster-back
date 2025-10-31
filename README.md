@@ -4,7 +4,7 @@ HoudMonster API is built with NestJS and provides endpoints to retrieve informat
 
 ## Routes
 
-- `GET /monsters` - Retrieve a list of all Monster Energy drinks.
+- `GET /monsters?name=''&type=''&minPrice=2` - Retrieve a list of all Monster Energy drinks with optional filters for name, type, and minimum price.
 - `GET /monsters/:id` - Retrieve detailed information about a specific Monster Energy drink by its ID.
 - `GET /monsters/type/:type` - Retrieve Monster Energy drinks filtered by type (e.g., Ultra, Punch, Energy).
 
