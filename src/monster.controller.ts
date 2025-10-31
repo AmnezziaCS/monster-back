@@ -1,10 +1,16 @@
-import { Controller, Get, Param, ParseIntPipe } from '@nestjs/common';
+import {
+  BadRequestException,
+  Controller,
+  Get,
+  Param,
+  ParseIntPipe,
+  Query,
+} from '@nestjs/common';
 import { MonsterService } from './monster.service';
-import { ParseMonsterTypePipe } from './pipes/parse-monster-type.pipe';
-import { MonsterTypeParamDto } from './dto/monster-type-param.dto';
 import { ApiTags, ApiParam, ApiOkResponse } from '@nestjs/swagger';
 import { MonsterDto } from './dto/monster.dto';
 import { VALID_MONSTER_TYPES } from 'types/globalTypes';
+import { GetMonstersQueryDto } from 'dto/get-monsters-query.dto';
 
 @ApiTags('Monsters')
 @Controller()
@@ -13,8 +19,8 @@ export class MonsterController {
 
   @Get('/monsters')
   @ApiOkResponse({ type: [MonsterDto] })
-  getAllMonsters(): MonsterDto[] {
-    return this.monsterService.getAllMonsters();
+  getAllMonsters(@Query() query: GetMonstersQueryDto): MonsterDto[] {
+    return this.monsterService.getAllMonsters(query);
   }
 
   @Get('/monsters/:id')
@@ -24,16 +30,28 @@ export class MonsterController {
   }
 
   @Get('/monsters/type/:type')
+  @ApiOkResponse({ type: [MonsterDto] })
   @ApiParam({
     name: 'type',
     enum: VALID_MONSTER_TYPES,
     example: 'Ultra',
-    description: 'The Monster product type (e.g., Ultra, Punch, Energy).',
+    description: 'Monster product type (e.g., Ultra, Punch, Energy).',
   })
-  @ApiOkResponse({ type: [MonsterDto] })
-  getMonstersByType(
-    @Param('type', ParseMonsterTypePipe) type: MonsterTypeParamDto['type'],
-  ): MonsterDto[] {
-    return this.monsterService.getMonstersByType(type);
+  getAllMonstersFromType(@Param('type') type: string): MonsterDto[] {
+    const normalized = type.trim().toLowerCase();
+
+    const matchedType = VALID_MONSTER_TYPES.find(
+      (t) => t.toLowerCase() === normalized,
+    );
+
+    if (!matchedType) {
+      throw new BadRequestException(
+        `Invalid monster type: "${type}". Must be one of: ${VALID_MONSTER_TYPES.join(
+          ', ',
+        )}`,
+      );
+    }
+
+    return this.monsterService.getAllMonsters({ type: matchedType });
   }
 }

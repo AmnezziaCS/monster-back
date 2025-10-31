@@ -43,7 +43,7 @@ export interface paths {
             path?: never;
             cookie?: never;
         };
-        get: operations["MonsterController_getMonstersByType"];
+        get: operations["MonsterController_getAllMonstersFromType"];
         put?: never;
         post?: never;
         delete?: never;
@@ -85,7 +85,14 @@ export type $defs = Record<string, never>;
 export interface operations {
     MonsterController_getAllMonsters: {
         parameters: {
-            query?: never;
+            query?: {
+                /** @description Filter monsters by type. */
+                type?: "Energy" | "Ultra" | "Java" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
+                /** @description Filter monsters by partial name match (case-insensitive). */
+                name?: string;
+                /** @description Minimum price required (filters out cheaper products). */
+                minPrice?: number;
+            };
             header?: never;
             path?: never;
             cookie?: never;
@@ -123,12 +130,12 @@ export interface operations {
             };
         };
     };
-    MonsterController_getMonstersByType: {
+    MonsterController_getAllMonstersFromType: {
         parameters: {
             query?: never;
             header?: never;
             path: {
-                /** @description The Monster product type (e.g., Ultra, Punch, Energy). */
+                /** @description Monster product type (e.g., Ultra, Punch, Energy). */
                 type: "Energy" | "Ultra" | "Java" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
             };
             cookie?: never;
