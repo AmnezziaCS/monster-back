@@ -1177,14 +1177,6 @@
       "description": "A potent 'Mutant' formula energy drink with a bold red fruit flavor. (Duplicate entry in original list)"
     },
     {
-      "id": 149,
-      "name": "Mutant",
-      "imageUrl": "https://www.listchallenges.com/f/items2022/bc1ee191-36df-4fec-bfb5-0acf524f9de1.jpg",
-      "type": "Energy",
-      "price": 2.99,
-      "description": "A core 'Mutant' line energy drink."
-    },
-    {
       "id": 150,
       "name": "Absolutely Zero No Calorie",
       "imageUrl": "https://www.listchallenges.com/f/items2020/1f3f8631-2b52-4b50-82f4-20914f7513fe.jpg",
