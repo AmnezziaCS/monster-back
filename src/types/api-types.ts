@@ -66,7 +66,7 @@ export interface components {
              * @example Ultra
              * @enum {string}
              */
-            type: "Energy" | "Ultra" | "Java" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
+            type: "Energy" | "Ultra" | "Java" | "Juice" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
             /** @example The monster ultra white is a refreshing energy drink with a crisp taste. */
             description: string;
             /** @example 2.99 */
@@ -87,7 +87,7 @@ export interface operations {
         parameters: {
             query?: {
                 /** @description Filter monsters by type. */
-                type?: "Energy" | "Ultra" | "Java" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
+                type?: "Energy" | "Ultra" | "Java" | "Juice" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
                 /** @description Filter monsters by partial name match (case-insensitive). */
                 name?: string;
                 /** @description Minimum price required (filters out cheaper products). */
@@ -136,7 +136,7 @@ export interface operations {
             header?: never;
             path: {
                 /** @description Monster product type (e.g., Ultra, Punch, Energy). */
-                type: "Energy" | "Ultra" | "Java" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
+                type: "Energy" | "Ultra" | "Java" | "Juice" | "Punch" | "Rehab" | "MAXX" | "X-Presso" | "Dragon Tea" | "Espresso" | "Muscle" | "Hydro";
             };
             cookie?: never;
         };

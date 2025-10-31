@@ -15,6 +15,7 @@ export const VALID_MONSTER_TYPES = [
   'Energy',
   'Ultra',
   'Java',
+  'Juice',
   'Punch',
   'Rehab',
   'MAXX',

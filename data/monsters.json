@@ -2,47 +2,47 @@
   "products": [
     {
       "id": 1,
-      "name": "Monster MAXX Rad Red",
-      "price": 3.49,
+      "name": "MAXX Rad Red",
+      "price": 2.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/8d78f340-688a-4b25-bd0d-7af85680b909.jpg",
       "type": "MAXX",
       "description": "A carbonated energy drink with the MAXX boost, featuring a rad red fruit flavor."
     },
     {
       "id": 2,
-      "name": "Monster Energy MAXX Solaris",
-      "price": 3.49,
+      "name": "MAXX Solaris",
+      "price": 2.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/6b9b2ae3-19d6-4185-ad25-d1daeae8dffc.jpg",
       "type": "MAXX",
       "description": "An energy drink with the MAXX blend, offering a bright, solar-inspired flavor."
     },
     {
       "id": 3,
-      "name": "Monster Energy MAXX Eclipse",
-      "price": 3.49,
+      "name": "MAXX Eclipse",
+      "price": 2.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/80dae909-33e4-4e3a-a673-4b0fc21c754d.jpg",
       "type": "MAXX",
       "description": "A high-intensity MAXX energy drink, dark and mysterious like an eclipse."
     },
     {
       "id": 4,
-      "name": "Monster Energy MAXX Super Dry",
-      "price": 3.49,
+      "name": "MAXX Super Dry",
+      "price": 2.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/b104bc4d-8050-4ed0-ba8c-7eed6f77ead8.jpg",
       "type": "MAXX",
       "description": "A carbonated energy drink in the MAXX line with a crisp, super dry finish."
     },
     {
       "id": 5,
-      "name": "Monster Energy MAXX Mango Matic",
-      "price": 3.49,
+      "name": "MAXX Mango Matic",
+      "price": 2.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/0f5d4065-3063-416c-8151-66417b00dbff.jpg",
       "type": "MAXX",
       "description": "An energy drink with the MAXX formula, delivering an intense mango flavor."
     },
     {
       "id": 6,
-      "name": "Monster Energy Java French Vanilla",
+      "name": "Java French Vanilla",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/193d9a33-e3bf-4aff-9d7c-c3bb0cbcf9ac.jpg",
       "type": "Java",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "name": "Monster Energy Java Mocha",
+      "name": "Java Mocha",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/79882368-9028-4ff7-b259-d1b75c95a2f3.jpg",
       "type": "Java",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "name": "Monster Energy Java Farmer's Oats",
+      "name": "Java Farmer's Oats",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/a6fdee47-d83f-490e-a990-b2cfe8eeb65b.jpg",
       "type": "Java",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "name": "Java Monster Mean Bean",
+      "name": "Java Mean Bean",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/15b7e45a-d64c-415b-8222-1ec3e701722e.jpg",
       "type": "Java",
@@ -74,7 +74,7 @@
     },
     {
       "id": 10,
-      "name": "Java Monster Loca Moca",
+      "name": "Java Loca Moca",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/97ebf6d4-6854-4dc3-b3f1-aa273b14688b.jpg",
       "type": "Java",
@@ -82,7 +82,7 @@
     },
     {
       "id": 11,
-      "name": "Java Monster Kona Blend",
+      "name": "Java Kona Blend",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/30191013-aa24-4cfb-a1cf-6c362012d415.jpg",
       "type": "Java",
@@ -90,7 +90,7 @@
     },
     {
       "id": 12,
-      "name": "Java Monster Irish Blend",
+      "name": "Java Irish Blend",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/6ae86c55-fca1-4add-9d08-020f22cc399c.jpg",
       "type": "Java",
@@ -98,23 +98,23 @@
     },
     {
       "id": 13,
-      "name": "Java Monster Low Calorie Vanilla Light",
+      "name": "Java Vanilla Light",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/febca422-4e81-4158-91c8-1508d4a5200b.jpg",
       "type": "Java",
-      "description": "A low-calorie, vanilla-flavored coffee energy blend."
+      "description": "A vanilla-flavored coffee energy blend."
     },
     {
       "id": 14,
-      "name": "Java Monster Salted Caramel",
+      "name": "Java Salted Caramel",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/dc66f0ba-31ac-4215-8f45-60ea2401db75.jpg",
       "type": "Java",
-      "description": "A Java Monster coffee blend combining sweet caramel with a hint of salt."
+      "description": "A Java monster coffee blend combining sweet caramel with a hint of salt."
     },
     {
       "id": 15,
-      "name": "Monster Java Lo-Ball",
+      "name": "Java Lo-Ball",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/a2612638-c8e0-4193-925a-6699f18bce7a.jpg",
       "type": "Java",
@@ -122,7 +122,7 @@
     },
     {
       "id": 16,
-      "name": "Java Monster Swiss Chocolate",
+      "name": "Java Swiss Chocolate",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items/f59a3889-8e71-4ad5-8774-a5f3940264ba.jpg",
       "type": "Java",
@@ -130,7 +130,7 @@
     },
     {
       "id": 17,
-      "name": "Monster Java Russian Blend",
+      "name": "Java Russian Blend",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/e5cffc5d-892c-46dd-8a9d-af9b3b145efd.jpg",
       "type": "Java",
@@ -138,7 +138,7 @@
     },
     {
       "id": 18,
-      "name": "Monster Java Nut-Up",
+      "name": "Java Nut-Up",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/5827c294-0752-4ce7-acd2-fd386f4306f2.jpg",
       "type": "Java",
@@ -146,7 +146,7 @@
     },
     {
       "id": 19,
-      "name": "Monster Energy Java Oatmilk",
+      "name": "Java Oatmilk",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/bd377de7-a039-49a4-8414-3e02647faf81.jpg",
       "type": "Java",
@@ -162,7 +162,7 @@
     },
     {
       "id": 21,
-      "name": "Monster Java Big Black",
+      "name": "Java Big Black",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/0e05f449-45b4-469c-a8f3-4aeb1900effd.jpg",
       "type": "Java",
@@ -170,7 +170,7 @@
     },
     {
       "id": 22,
-      "name": "Monster Java Cappucino",
+      "name": "Java Cappucino",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/afe5b120-08ce-49e4-a57d-c24a1ac82285.jpg",
       "type": "Java",
@@ -178,7 +178,7 @@
     },
     {
       "id": 23,
-      "name": "Monster Java Chai-Hai",
+      "name": "Java Chai-Hai",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/6b0d8066-5f9d-4944-bb30-c70ed72cc899.jpg",
       "type": "Java",
@@ -186,7 +186,7 @@
     },
     {
       "id": 24,
-      "name": "Monster Java Originale",
+      "name": "Java Originale",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/f82ea47a-8d40-4c26-9f7d-bb449a7f27cc.jpg",
       "type": "Java",
@@ -194,7 +194,7 @@
     },
     {
       "id": 25,
-      "name": "Monster Energy Java Cold Brew",
+      "name": "Java Cold Brew",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/7f6244ae-a3d0-4ec7-ba39-9e26864a622b.jpg",
       "type": "Java",
@@ -202,7 +202,7 @@
     },
     {
       "id": 26,
-      "name": "Monster Energy Java Cold Brew Sweet Black",
+      "name": "Java Cold Brew Sweet Black",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/1f828506-acd1-468c-af3b-7a682eb95069.jpg",
       "type": "Java",
@@ -210,7 +210,7 @@
     },
     {
       "id": 27,
-      "name": "Monster X-Presso Hammer",
+      "name": "X-Presso Hammer",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/c2821cd7-e03f-47f5-b905-41dd2a65c492.jpg",
       "type": "X-Presso",
@@ -218,9 +218,9 @@
     },
     {
       "id": 28,
-      "name": "Monster Energy Java X-Presso Midnite",
+      "name": "Java X-Presso Midnite",
       "price": 3.99,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/db5f2e52-85bc-4c32-b6f4-65e0c6556a59.jpg",
+      "imageUrl": "https://images.freshop.ncrcloud.com/00070847000136/92e43d2e5b5275d898df145f0780b40b_large.png",
       "type": "X-Presso",
       "description": "A dark, powerful espresso energy blend perfect for a mid-day or midnite boost."
     },
@@ -234,7 +234,7 @@
     },
     {
       "id": 30,
-      "name": "Monster Mule Ginger Brew",
+      "name": "Mule Ginger Brew",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/9af2a507-81c0-4ac3-a218-357e926d1392.jpg",
       "type": "Energy",
@@ -242,7 +242,7 @@
     },
     {
       "id": 31,
-      "name": "Monster Energy Rehab Peach",
+      "name": "Rehab Energy Peach",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items/9c68457b-e14a-447c-a1a1-a320deaeef10.jpg",
       "type": "Rehab",
@@ -250,7 +250,7 @@
     },
     {
       "id": 32,
-      "name": "Monster Energy Rehab Rasberry Tea",
+      "name": "Rehab Energy Raspberry",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/cadabef6-e247-4e0c-9436-d2898b97711b.jpg",
       "type": "Rehab",
@@ -258,7 +258,7 @@
     },
     {
       "id": 33,
-      "name": "Monster Energy Rehab Pink Lemonade",
+      "name": "Rehab Energy Pink Lemonade",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/343118a6-0a1d-4179-b950-b221c26e109f.jpg",
       "type": "Rehab",
@@ -266,15 +266,15 @@
     },
     {
       "id": 34,
-      "name": "Monster Energy Rehab Orangeade",
+      "name": "Rehab Energy Orangeade",
       "price": 2.79,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/d89498df-a203-4728-83ef-ccc8e380825b.jpg",
+      "imageUrl": "https://americanuncleshop.fr/cdn/shop/products/Monster_Orange.png?v=1591024117",
       "type": "Rehab",
       "description": "A non-carbonated Orangeade energy blend designed to rehydrate and revitalize."
     },
     {
       "id": 35,
-      "name": "Monster Energy Rehab Lemonade",
+      "name": "Rehab Energy Lemonade",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/3991b338-c6a4-4b70-b2e9-fd582a4c6240.jpg",
       "type": "Rehab",
@@ -282,7 +282,7 @@
     },
     {
       "id": 36,
-      "name": "Monster Energy Rehab Orangeade",
+      "name": "Rehab Recover Orangeade",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/edbf7628-44da-46fe-880b-975820946714.jpg",
       "type": "Rehab",
@@ -290,7 +290,7 @@
     },
     {
       "id": 37,
-      "name": "Monster Energy Rehab Peach Tea",
+      "name": "Rehab Recover Peach Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/69632545-063d-42dc-b319-a1f882ff977d.jpg",
       "type": "Rehab",
@@ -298,7 +298,7 @@
     },
     {
       "id": 38,
-      "name": "Monster Energy Rehab Raspberry Tea",
+      "name": "Rehab Recover Raspberry Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/5fefc3f1-ba2e-4b60-8b5a-ba5734db5e83.jpg",
       "type": "Rehab",
@@ -306,7 +306,7 @@
     },
     {
       "id": 39,
-      "name": "Monster Rehab Recover Watermelon",
+      "name": "Rehab Recover Watermelon",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/4e16fd3d-f103-4d06-8359-a1a513e20f06.jpg",
       "type": "Rehab",
@@ -314,7 +314,7 @@
     },
     {
       "id": 40,
-      "name": "Monster Energy Dragon Green Tea",
+      "name": "Dragon Green Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2020/2a44ded0-842e-4d4e-8163-17fb22d1087a.jpg",
       "type": "Dragon Tea",
@@ -322,7 +322,7 @@
     },
     {
       "id": 41,
-      "name": "Monster Energy Dragon White Tea",
+      "name": "Dragon White Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2020/f5ff9820-060a-4f3a-b1c9-38a9c7ab4914.jpg",
       "type": "Dragon Tea",
@@ -330,7 +330,7 @@
     },
     {
       "id": 42,
-      "name": "Monster Energy Yerba Mate Dragon Tea",
+      "name": "Dragon Yerba Mate",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/cd6b2f13-b642-492d-adc8-d09ad0ad056a.jpg",
       "type": "Dragon Tea",
@@ -338,7 +338,7 @@
     },
     {
       "id": 43,
-      "name": "Monster Energy Dragon Tea: White Tea (Dragon Fruit)",
+      "name": "Dragon White Tea Dragon Fruit",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/9eac2214-4cef-4448-9c58-53ed36a283e5.jpg",
       "type": "Dragon Tea",
@@ -346,23 +346,23 @@
     },
     {
       "id": 44,
-      "name": "Monster Energy Dragon Tea Lemon",
+      "name": "Dragon Iced Lemon Tea",
       "price": 2.79,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/ca984cca-8a01-4490-952a-17df7444304c.jpg",
+      "imageUrl": "https://www.myamericanshop.com/cdn/shop/files/monster-dragon-ice-tea-lemon-52069589811531.webp?v=1707408328",
       "type": "Dragon Tea",
       "description": "A refreshing Lemon-flavored energy blend in the Dragon Tea series."
     },
     {
       "id": 45,
-      "name": "Monster Energy Dragon Tea Peach",
+      "name": "Dragon Iced Peach Tea",
       "price": 2.79,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/f745347a-8281-4ac1-84ca-4981a5eee655.jpg",
+      "imageUrl": "https://candymarket.fr/cdn/shop/files/87927A07-9C03-4EEF-9BA4-D058500D0DCF_1200x1200.png?v=1745233311",
       "type": "Dragon Tea",
       "description": "A Peach-flavored tea and energy blend."
     },
     {
       "id": 46,
-      "name": "Monster Dragon Iced Tea: Green Tea",
+      "name": "Dragon Iced Green Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2021/737dba8e-cc40-4923-a20a-89fa1a7d27da.jpg",
       "type": "Dragon Tea",
@@ -370,7 +370,7 @@
     },
     {
       "id": 47,
-      "name": "Monster Dragon Iced Tea: Lemon Tea",
+      "name": "Dragon Iced Lemon Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2021/e04b3ea3-8952-49f2-9674-7bf39450847e.jpg",
       "type": "Dragon Tea",
@@ -378,7 +378,7 @@
     },
     {
       "id": 48,
-      "name": "Monster Dragon Iced Tea: Peach Tea",
+      "name": "Dragon Iced Peach Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2021/50b52801-8869-48c8-ada1-8e98b645a4f0.jpg",
       "type": "Dragon Tea",
@@ -386,7 +386,7 @@
     },
     {
       "id": 49,
-      "name": "Monster Dragon Iced Tea: Raspberry Tea",
+      "name": "Dragon Iced Raspberry Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2021/dd977419-e136-4b0a-82a4-5884f805020b.jpg",
       "type": "Dragon Tea",
@@ -394,15 +394,15 @@
     },
     {
       "id": 50,
-      "name": "Monster Energy Dragon Tea Chinese Gold Dragon Tea",
+      "name": "Dragon Chinese Gold Tea",
       "price": 2.79,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/fde6520d-1015-4f6f-9d1d-e2a316540f93.jpg",
+      "imageUrl": "https://ss-pics.s3.eu-west-1.amazonaws.com/files/2354665/large-_vyr_3251_monster-dragons-gold.jpg?1658844030",
       "type": "Dragon Tea",
       "description": "A special Chinese Gold Dragon Tea energy blend."
     },
     {
       "id": 51,
-      "name": "Monster Energy Dragon Tea (Chinese)",
+      "name": "Dragon Chinese Tea",
       "price": 2.79,
       "imageUrl": "https://www.listchallenges.com/f/items2022/d28d2f40-a36a-40e2-8be4-965381da3511.jpg",
       "type": "Dragon Tea",
@@ -410,7 +410,7 @@
     },
     {
       "id": 52,
-      "name": "Monster Energy Espresso Vanilla",
+      "name": "Espresso Vanilla",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/63726b21-5c3d-4bd1-a1ed-04f5d5ec1151.jpg",
       "type": "Espresso",
@@ -418,7 +418,7 @@
     },
     {
       "id": 53,
-      "name": "Monster Energy Espresso & Cream",
+      "name": "Espresso & Cream",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/7955c378-5930-4e8a-a1d0-ef8e6cfde992.jpg",
       "type": "Espresso",
@@ -434,7 +434,7 @@
     },
     {
       "id": 55,
-      "name": "Monster Energy Espresso Caffe Mocha",
+      "name": "Espresso Caffe Mocha",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/950b71ae-a08e-4e08-ad3d-4c64264a24d3.jpg",
       "type": "Espresso",
@@ -442,7 +442,7 @@
     },
     {
       "id": 56,
-      "name": "Monster Energy Espresso Caffe Vanilla",
+      "name": "Espresso Caffe Vanilla",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/96a571b2-c1eb-4cab-a0db-93c01f8f127c.jpg",
       "type": "Espresso",
@@ -450,7 +450,7 @@
     },
     {
       "id": 57,
-      "name": "Monster Energy Espresso Caffe Salted Caramel",
+      "name": "Espresso Caffe Salted Caramel",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/a372ae84-6fe3-44cc-a6b3-79c3a2338629.jpg",
       "type": "Espresso",
@@ -458,7 +458,7 @@
     },
     {
       "id": 58,
-      "name": "Muscle Monster Energy Shake Chocolate",
+      "name": "Muscle Shake Chocolate",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/c36b42cd-fc19-421b-923b-02d873579a23.jpg",
       "type": "Muscle",
@@ -466,7 +466,7 @@
     },
     {
       "id": 59,
-      "name": "Muscle Monster Energy Shake Vanilla",
+      "name": "Muscle Shake Vanilla",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/289262bc-9f3e-47f7-8fd1-fbdfc145c129.jpg",
       "type": "Muscle",
@@ -474,7 +474,7 @@
     },
     {
       "id": 60,
-      "name": "Monster Muscle Chocolate",
+      "name": "Muscle Chocolate",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/8e102eb3-3b10-420f-9425-e5baf3ad8f54.jpg",
       "type": "Muscle",
@@ -482,7 +482,7 @@
     },
     {
       "id": 61,
-      "name": "Monster Muscle Vanilla",
+      "name": "Muscle Vanilla",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/40514627-be8e-4cee-bf40-e8227222e42c.jpg",
       "type": "Muscle",
@@ -490,7 +490,7 @@
     },
     {
       "id": 62,
-      "name": "Monster Muscle Banana",
+      "name": "Muscle Banana",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/3ac9e6ea-eabe-4e80-96b0-7f9dd481bcbf.jpg",
       "type": "Muscle",
@@ -498,7 +498,7 @@
     },
     {
       "id": 63,
-      "name": "Monster Muscle Strawberry",
+      "name": "Muscle Strawberry",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/4ac9c51f-b7eb-414a-8b6c-0ce6bf62aa30.jpg",
       "type": "Muscle",
@@ -506,7 +506,7 @@
     },
     {
       "id": 64,
-      "name": "Monster Muscle Caffe Latte",
+      "name": "Muscle Caffe Latte",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/8e902a1b-b7e6-4a92-9d2b-f969a7f18a64.jpg",
       "type": "Muscle",
@@ -514,7 +514,7 @@
     },
     {
       "id": 65,
-      "name": "Monster Muscle Peanut Butter",
+      "name": "Muscle Peanut Butter",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2021/b730df7f-55f7-42ae-97fd-828cf7bdcb9a.jpg",
       "type": "Muscle",
@@ -522,7 +522,7 @@
     },
     {
       "id": 66,
-      "name": "Monster Muscle Vanilla",
+      "name": "Muscle Vanilla",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/dd0b93da-5f52-4751-8055-e5b725555d13.jpg",
       "type": "Muscle",
@@ -530,7 +530,7 @@
     },
     {
       "id": 67,
-      "name": "Monster Muscle Strawberry",
+      "name": "Muscle Strawberry",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2020/a5cbce39-1ec8-409e-a6d7-09079a799f04.jpg",
       "type": "Muscle",
@@ -538,7 +538,7 @@
     },
     {
       "id": 68,
-      "name": "Monster Energy Ghost",
+      "name": "Ghost",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/ad5e5ae7-f2eb-4624-8e49-70bf7bf31e56.jpg",
       "type": "Energy",
@@ -546,7 +546,7 @@
     },
     {
       "id": 69,
-      "name": "Monster Energy Phantom",
+      "name": "Phantom",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/6fa9d02b-65a4-4fd7-9b4e-9a330d3b1585.jpg",
       "type": "Energy",
@@ -554,7 +554,7 @@
     },
     {
       "id": 70,
-      "name": "Monster Energy Assault",
+      "name": "Assault",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2021/a0a17304-c674-4410-9b1e-6a59dee3d79f.jpg",
       "type": "Energy",
@@ -562,39 +562,39 @@
     },
     {
       "id": 71,
-      "name": "Monster Energy M-80",
+      "name": "M-80",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/9c5f5aa2-65ae-4abb-a0ec-4ded201de694.jpg",
-      "type": "Punch",
+      "type": "Energy",
       "description": "An explosive energy blend with a high percentage of fruit juice."
     },
     {
       "id": 72,
-      "name": "Monster Ripper",
+      "name": "Ripper",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items/3d77fdb5-e64e-48de-8619-1a5f39f351da.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "A half-juice, half-energy blend with a tropical, citrus flavor."
     },
     {
       "id": 73,
-      "name": "Monster Energy Khaos",
+      "name": "Khaos",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/3495beb6-55b3-4de9-ad6a-6c066f0b7432.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "The original Monster blend with a high percentage of juice for a chaotic flavor mix."
     },
     {
       "id": 74,
-      "name": "Monster MIXXD",
+      "name": "MIXXD",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items/882919d7-b0a1-43bc-befc-f3e7dc223973.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "A mixed fruit juice and energy drink blend."
     },
     {
       "id": 75,
-      "name": "Monster Energy Mega Original",
+      "name": "Mega Original",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/6d9aebf1-7697-4ea4-b4db-6910f88a4f30.jpg",
       "type": "Energy",
@@ -602,15 +602,15 @@
     },
     {
       "id": 76,
-      "name": "Monster Energy Mega Original",
+      "name": "Mega Original re-usable",
       "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/1b79eb4c-4d8c-45db-beaa-9a1ea3aa31c3.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/I/71N1pJags5L._SL1500_.jpg",
       "type": "Energy",
       "description": "Another version of the original Monster Energy blend in the Mega size."
     },
     {
       "id": 77,
-      "name": "Monster Energy Zero Ultra 710 Ml",
+      "name": "Ultra Zero 710 Ml",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/acc8bda4-66b5-4e37-b0ef-f4ebfcdb88f6.jpg",
       "type": "Ultra",
@@ -618,7 +618,7 @@
     },
     {
       "id": 78,
-      "name": "Monster Energy Ultra Violet 710Ml",
+      "name": "Ultra Violet 710Ml",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/4d880f07-876c-4d65-b58e-84e58384babb.jpg",
       "type": "Ultra",
@@ -626,7 +626,7 @@
     },
     {
       "id": 79,
-      "name": "Monster Energy Ultra Fiesta Mango 710Ml",
+      "name": "Ultra Fiesta Mango 710Ml",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/9ae37c9a-3447-4ced-bde0-07f82d6e08d7.jpg",
       "type": "Ultra",
@@ -634,15 +634,15 @@
     },
     {
       "id": 80,
-      "name": "Monster Energy Absolute Zero 710Ml",
+      "name": "Absolute Zero 710Ml",
       "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/92e23ad4-d3e6-44f1-af04-cd8e704702c8.jpg",
+      "imageUrl": "https://usabites.co.uk/cdn/shop/products/monster-mega-lo-carb-energy-800x800.png?v=1616441206",
       "type": "Energy",
       "description": "The classic 'Absolutely Zero' formula (low-calorie, no sugar) in a large 710ml can."
     },
     {
       "id": 81,
-      "name": "Monster Energy Assault 710Ml",
+      "name": "Assault 710Ml",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/73e2ccce-b67b-4c69-b829-5911a81062a0.jpg",
       "type": "Energy",
@@ -650,7 +650,7 @@
     },
     {
       "id": 82,
-      "name": "Monster Energy Black-Ice 710Ml",
+      "name": "Black-Ice 710Ml",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/1c572bf5-5639-4b79-8ed8-1ad995173b67.jpg",
       "type": "Energy",
@@ -658,7 +658,7 @@
     },
     {
       "id": 83,
-      "name": "Monster Energy Extrastrength 710Ml",
+      "name": "Extrastrength 710Ml",
       "price": 3.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/620dfdd4-f024-4228-96d9-8831953fc883.jpg",
       "type": "Energy",
@@ -666,7 +666,7 @@
     },
     {
       "id": 84,
-      "name": "Monster Energy Nitrous ''Killer-B'' 710Ml",
+      "name": "Nitrous ''Killer-B'' 710Ml",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/181c2a32-614f-4a75-a698-e8034ed484b7.jpg",
       "type": "Energy",
@@ -674,7 +674,7 @@
     },
     {
       "id": 85,
-      "name": "Monster Energy Nitrous ''Anti-Gravity'' 710Ml",
+      "name": "Nitrous Anti-Gravity 710Ml",
       "price": 3.99,
       "imageUrl": "https://www.listchallenges.com/f/items2022/339a3414-b1e5-4f7f-90a8-4d739ca11d89.jpg",
       "type": "Energy",
@@ -682,9 +682,9 @@
     },
     {
       "id": 86,
-      "name": "Monster Energy Absolute Zero 710Ml",
+      "name": "Absolutely Zero 710Ml",
       "price": 3.49,
-      "imageUrl": "https://www.listchallenges.com/f/items2022/d7354e23-9a55-4d9e-a965-4d8be7f92ce3.jpg",
+      "imageUrl": "https://img-cdn.heureka.group/v1/1c205e0f-0f2a-41d1-af11-33da03a4e0d2.jpg?width=400&height=400",
       "type": "Energy",
       "description": "A large can of the Absolutely Zero, sugar-free energy drink."
     },
@@ -693,12 +693,12 @@
       "name": "Cuba Libre",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/564c8a71-1c98-4c60-abb9-c14f3363b51f.jpg",
-      "type": "Rehab",
+      "type": "Energy",
       "description": "A Cuba Libre inspired flavor, likely a cola/lime blend."
     },
     {
       "id": 88,
-      "name": "Monster Energy Cuba-Lima",
+      "name": "Cuba-Lima",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/21fbb8ee-0215-402f-92b5-c3993240a01e.jpg",
       "type": "Energy",
@@ -706,7 +706,7 @@
     },
     {
       "id": 89,
-      "name": "Monster Energy Heavy Metal",
+      "name": "Heavy Metal",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/8f9e366d-04c2-4dcd-b72f-9df90273860e.jpg",
       "type": "Energy",
@@ -714,7 +714,7 @@
     },
     {
       "id": 90,
-      "name": "Monster Energy Unleaded",
+      "name": "Unleaded",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/5e27ccc8-e468-480a-b32a-99bf5e96e98e.jpg",
       "type": "Energy",
@@ -722,7 +722,7 @@
     },
     {
       "id": 91,
-      "name": "Monster Energy Gronk",
+      "name": "Gronk",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/3db76fb3-8e9e-498f-9ccf-44f0a31afb8c.jpg",
       "type": "Energy",
@@ -730,7 +730,7 @@
     },
     {
       "id": 92,
-      "name": "Monster Energy Gronk",
+      "name": "Gronk rebranded",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/e7e73a8f-ae66-4b1c-a3f1-8b7ddaad7a98.jpg",
       "type": "Energy",
@@ -738,7 +738,7 @@
     },
     {
       "id": 93,
-      "name": "Monster Energy LH44",
+      "name": "LH44",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items/e28e893f-4c4f-44fb-8220-8000ee43b9ba.jpg",
       "type": "Energy",
@@ -746,7 +746,7 @@
     },
     {
       "id": 94,
-      "name": "Monster Energy the Doctor",
+      "name": "The Doctor",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items/947329ed-caa0-4cde-8f7d-692b830467aa.jpg",
       "type": "Energy",
@@ -754,55 +754,55 @@
     },
     {
       "id": 95,
-      "name": "Monster Energy Juice Ripper",
+      "name": "Juice Ripper",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/aa426414-f162-4cb4-951c-1ddef148deeb.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "An energy drink that's half-juice, featuring a blend of tropical flavors."
     },
     {
       "id": 96,
-      "name": "Monster Energy Juice",
+      "name": "Juice Aussie lemonade",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2022/e46d6392-397e-426d-8daf-99c59aede310.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "A juice-based energy drink, part of the Juice Monster line."
     },
     {
       "id": 97,
-      "name": "Monster Energy Juice Khaos",
+      "name": "Juice Khaos",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/685f39f6-21e8-432c-82ce-58375dea274d.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "The Khaos flavor (tropical fruit blend) in the Juice Monster series."
     },
     {
       "id": 98,
-      "name": "Monster Energy Juice Khaotic",
+      "name": "Juice Khaotic",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/819c289c-56c1-406f-8f49-34575779a8e8.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "A chaotic blend of juice and energy, a twist on the Khaos flavor."
     },
     {
       "id": 99,
-      "name": "Monster Energy Juice Mango Loco",
+      "name": "Juice Mango Loco",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items2020/9dc3bbbc-9096-46a4-ac0c-284747862968.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "A mad mango-flavored juice and energy blend, inspired by the Day of the Dead."
     },
     {
       "id": 100,
-      "name": "Monster Pipeline Punch",
+      "name": "Pipeline Punch",
       "price": 2.49,
       "imageUrl": "https://www.listchallenges.com/f/items/ca944d9e-eaa2-418a-8b9b-a8887527c470.jpg",
-      "type": "Punch",
+      "type": "Juice",
       "description": "A blend of tropical juices (passion fruit, orange, guava) and energy, inspired by the North Shore."
     },
     {
       "id": 101,
-      "name": "Monster Energy Ultra Red",
+      "name": "Ultra Red",
       "imageUrl": "https://www.listchallenges.com/f/items/81a25e54-4891-4ad6-a12e-aea3072cdc57.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -818,7 +818,7 @@
     },
     {
       "id": 103,
-      "name": "Monster Energy Ultra Rosa",
+      "name": "Ultra Rosa",
       "imageUrl": "https://www.listchallenges.com/f/items2020/5d320f66-749f-4ca4-86c0-d26e94320723.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -826,7 +826,7 @@
     },
     {
       "id": 104,
-      "name": "Monster Energy Ultra Sunrise",
+      "name": "Ultra Sunrise",
       "imageUrl": "https://www.listchallenges.com/f/items2020/72c480e0-ff57-4886-b2f3-bebdec2dd890.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -834,7 +834,7 @@
     },
     {
       "id": 105,
-      "name": "Monster Energy Ultra Peachy Keen",
+      "name": "Ultra Peachy Keen",
       "imageUrl": "https://www.listchallenges.com/f/items2022/5e722ff5-56dc-44f8-a9a2-e160fec9abf2.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -842,7 +842,7 @@
     },
     {
       "id": 106,
-      "name": "Monster Energy Ultra Sunrise",
+      "name": "Ultra Sunrise",
       "imageUrl": "https://www.listchallenges.com/f/items/15b51c19-6300-413f-a389-54989596d340.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -850,7 +850,7 @@
     },
     {
       "id": 107,
-      "name": "Monster Energy Ultra Gold",
+      "name": "Ultra Gold",
       "imageUrl": "https://www.listchallenges.com/f/items2021/f2f1de6e-256e-4ba4-90ab-0bbc51973d8a.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -858,7 +858,7 @@
     },
     {
       "id": 108,
-      "name": "Monster Energy Ultra Citron",
+      "name": "Ultra Citron",
       "imageUrl": "https://www.listchallenges.com/f/items/66ef3b51-cf10-4b36-86de-a2232e4d9c27.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -866,7 +866,7 @@
     },
     {
       "id": 109,
-      "name": "Monster Energy Ultra Paradise",
+      "name": "Ultra Paradise",
       "imageUrl": "https://www.listchallenges.com/f/items2020/c8f6ce07-9fa9-453e-b795-b94bbd1fe589.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -874,7 +874,7 @@
     },
     {
       "id": 110,
-      "name": "Monster Energy Ultra Fiesta Mango",
+      "name": "Ultra Fiesta Mango",
       "imageUrl": "https://www.listchallenges.com/f/items2022/fee2b396-d7dd-43f1-8b58-c38614f8b895.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -882,7 +882,7 @@
     },
     {
       "id": 111,
-      "name": "Monster Energy Ultra Blue",
+      "name": "Ultra Blue",
       "imageUrl": "https://www.listchallenges.com/f/items/d5c6bf11-7979-4b44-b97a-dc3b6eb95395.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -890,7 +890,7 @@
     },
     {
       "id": 112,
-      "name": "Monster Energy Ultra Violet",
+      "name": "Ultra Violet",
       "imageUrl": "https://www.listchallenges.com/f/items2020/849b42f2-d930-48dd-a95b-399d0071cf4f.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -898,7 +898,7 @@
     },
     {
       "id": 113,
-      "name": "Monster Energy Ultra Black",
+      "name": "Ultra Black",
       "imageUrl": "https://www.listchallenges.com/f/items2020/eccedd26-4f52-4f38-b31c-78c5056fbc53.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -906,7 +906,7 @@
     },
     {
       "id": 114,
-      "name": "Monster Energy Ultra",
+      "name": "Ultra",
       "imageUrl": "https://www.listchallenges.com/f/items/4f89be56-2dda-4d2d-a88d-f67e385e4b28.jpg",
       "type": "Ultra",
       "price": 2.99,
@@ -914,63 +914,63 @@
     },
     {
       "id": 115,
-      "name": "Monster Hydro Energy Water Watermelon",
-      "imageUrl": "https://www.listchallenges.com/f/items2022/db0c2b6d-3d42-4de4-b99b-596d80f346df.jpg",
+      "name": "Hydro Energy Water Watermelon",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZH0g0sgDNYC16T0udHL8_4vkjUOz8dTMCg&s",
       "type": "Hydro",
       "price": 2.99,
       "description": "Non-carbonated energy water with electrolytes and a refreshing watermelon flavor."
     },
     {
       "id": 116,
-      "name": "Monster Hydro Manic Melon",
-      "imageUrl": "https://www.listchallenges.com/f/items/3c7a28c9-b990-4f02-b36a-3fb4a696dbf5.jpg",
+      "name": "Hydro Manic Melon",
+      "imageUrl": "https://americanuncleshop.fr/cdn/shop/products/monster-hydro-manic-melon-550ml-800x800.png?v=1591025836",
       "type": "Hydro",
       "price": 2.99,
       "description": "Non-carbonated energy water with electrolytes and a manic melon flavor."
     },
     {
       "id": 117,
-      "name": "Monster Hydro Tropical Thunder",
-      "imageUrl": "https://www.listchallenges.com/f/items/154fd483-7b6d-4a65-a538-842cc37ce553.jpg",
+      "name": "Hydro Tropical Thunder",
+      "imageUrl": "https://americanuncleshop.fr/cdn/shop/products/monster-hydro-tropical-thunder-550ml-800x800_f2a27606-39dc-4b72-8884-716c0733552e.png?v=1591025590",
       "type": "Hydro",
       "price": 2.99,
       "description": "Non-carbonated energy water with electrolytes and a powerful tropical flavor."
     },
     {
       "id": 118,
-      "name": "Monster Hydro Mean Green",
-      "imageUrl": "https://www.listchallenges.com/f/items/cd668371-0eb2-4fcd-b8ec-283bd9222c75.jpg",
+      "name": "Hydro Mean Green",
+      "imageUrl": "https://americanuncleshop.fr/cdn/shop/products/monster-hydro-mean-green-550ml-800x800_22ddda12-e021-45ee-8c1d-cc0c1a5e197d.png?v=1591025526",
       "type": "Hydro",
       "price": 2.99,
       "description": "Non-carbonated energy water with electrolytes and a bold green apple flavor."
     },
     {
       "id": 119,
-      "name": "Monster Hydro Blue Ice",
-      "imageUrl": "https://www.listchallenges.com/f/items/c47b9144-def0-4816-be1e-40bb524a65f3.jpg",
+      "name": "Hydro Blue Ice",
+      "imageUrl": "https://images.albertsons-media.com/is/image/ABS/960320898-ECOM?$ng-ecom-pdp-mobile$&defaultImage=Not_Available",
       "type": "Hydro",
       "price": 2.99,
       "description": "Non-carbonated energy water with electrolytes and a crisp blue raspberry flavor."
     },
     {
       "id": 120,
-      "name": "Monster Hydro Purple Passion",
-      "imageUrl": "https://www.listchallenges.com/f/items/b3d52a40-984d-445a-b112-53aa9bcb7538.jpg",
+      "name": "Hydro Purple Passion",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtf-ZATAwZSIiVu8vPB2hFkJS_dIUhLaa6ow&s",
       "type": "Hydro",
       "price": 2.99,
       "description": "Non-carbonated energy water with electrolytes and a rich purple grape flavor."
     },
     {
       "id": 121,
-      "name": "Monster Hydro Zero Sugar",
-      "imageUrl": "https://www.listchallenges.com/f/items/554c53bd-4c9d-4fef-9de0-ed8aacb1559c.jpg",
+      "name": "Hydro Zero Sugar",
+      "imageUrl": "https://www.ubuy.fr/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzMxdiUyQmwwazJOZ0wuX1NTNDAwXy5qcGc.jpg",
       "type": "Hydro",
       "price": 2.99,
       "description": "Zero sugar, non-carbonated energy water with electrolytes."
     },
     {
       "id": 122,
-      "name": "Monster Hydro Hydro Sport Hang",
+      "name": "Hydro Sport Hang",
       "imageUrl": "https://www.listchallenges.com/f/items2021/fac6d056-bb55-450e-b191-71e1426e130a.jpg",
       "type": "Hydro",
       "price": 2.99,
@@ -986,7 +986,7 @@
     },
     {
       "id": 124,
-      "name": "Monster Hydro Sport Strike",
+      "name": "Hydro Sport Strike",
       "imageUrl": "https://www.listchallenges.com/f/items2021/6a39a9be-f311-4cfd-bbce-2ff86035cb01.jpg",
       "type": "Hydro",
       "price": 2.99,
@@ -994,7 +994,7 @@
     },
     {
       "id": 125,
-      "name": "Monster Super Cola",
+      "name": "Super Cola",
       "imageUrl": "https://www.listchallenges.com/f/items2022/3a025194-a4c1-45b0-aa9a-f5a2b5b6a66f.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1002,23 +1002,15 @@
     },
     {
       "id": 126,
-      "name": "Monster M3",
-      "imageUrl": "https://www.listchallenges.com/f/items/3a3069e1-a001-4727-a303-990c585cbc38.jpg",
+      "name": "M3",
+      "imageUrl": "https://popsamerica.com/1886-large_default/monster-energy-m3-bottle.jpg",
       "type": "Energy",
       "price": 2.99,
       "description": "A potent, concentrated energy shot in a bottle."
     },
     {
-      "id": 127,
-      "name": "Monster Energy Extra Strenght M3",
-      "imageUrl": "https://www.listchallenges.com/f/items2020/0ca01167-69eb-4dc4-b374-6bc4c8bc047c.jpg",
-      "type": "Energy",
-      "price": 2.99,
-      "description": "Extra strength, concentrated M3 energy formula."
-    },
-    {
       "id": 128,
-      "name": "Monster Energy M³",
+      "name": "M³",
       "imageUrl": "https://www.listchallenges.com/f/items2022/602c5fd2-8bea-4d08-b4a9-29ea0f21d7e0.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1026,23 +1018,23 @@
     },
     {
       "id": 129,
-      "name": "Monster Energy Baller's Blend",
-      "imageUrl": "https://www.listchallenges.com/f/items/879a3b9c-a2c9-4677-a077-6417a866fafa.jpg",
-      "type": "Energy",
+      "name": "Baller's Blend",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUYBfS3p09kuyX6r5Cz3kNfl2jChyCraWVg&s",
+      "type": "Punch",
       "price": 2.99,
       "description": "An original Monster Energy blend with a unique flavor profile."
     },
     {
       "id": 130,
-      "name": "Monster Energy Mad Dog",
-      "imageUrl": "https://www.listchallenges.com/f/items/3d6209a5-8c4a-4ef6-9960-7676844b54e8.jpg",
-      "type": "Energy",
+      "name": "Mad Dog",
+      "imageUrl": "https://americanuncleshop.fr/cdn/shop/products/MonsterEnergyMadDogPunch473ml.jpg?v=1663851740&width=900",
+      "type": "Punch",
       "price": 2.99,
       "description": "A bold Monster Energy flavor, often retired or a regional exclusive."
     },
     {
       "id": 131,
-      "name": "The Original Monster Energy Super-Premium Import",
+      "name": "Import",
       "imageUrl": "https://www.listchallenges.com/f/items2021/1dde9243-6626-46b4-8c53-2b302b391902.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1050,7 +1042,7 @@
     },
     {
       "id": 132,
-      "name": "Monster Energy Import Light",
+      "name": "Import Light",
       "imageUrl": "https://www.listchallenges.com/f/items2020/35e43137-141e-48bf-b71b-9003bfdeaace.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1074,7 +1066,7 @@
     },
     {
       "id": 135,
-      "name": "Hydro Super Sport Red Dawg Bottle",
+      "name": "Hydro Super Sport Red Dawg",
       "imageUrl": "https://www.listchallenges.com/f/items2020/eae60869-0456-480f-81c3-e429f74b4453.jpg",
       "type": "Hydro",
       "price": 2.99,
@@ -1082,7 +1074,7 @@
     },
     {
       "id": 136,
-      "name": "Hydro Super Sport Macho Mango Bottle",
+      "name": "Hydro Super Sport Macho Mango",
       "imageUrl": "https://www.listchallenges.com/f/items2021/032d81a3-ec9b-4548-a21c-1a27ad1a6387.jpg",
       "type": "Hydro",
       "price": 2.99,
@@ -1090,7 +1082,7 @@
     },
     {
       "id": 137,
-      "name": "Hydro Super Sport Killer Kiwi Bottle",
+      "name": "Hydro Super Sport Killer Kiwi",
       "imageUrl": "https://www.listchallenges.com/f/items2021/029ed690-e909-40a6-bf31-f4de29b99ef3.jpg",
       "type": "Hydro",
       "price": 2.99,
@@ -1106,7 +1098,7 @@
     },
     {
       "id": 139,
-      "name": "Monster Nitrous Killer-B",
+      "name": "Nitrous Killer-B",
       "imageUrl": "https://www.listchallenges.com/f/items2022/03651676-b5a9-49a6-9153-082a86b0d49d.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1114,7 +1106,7 @@
     },
     {
       "id": 140,
-      "name": "Monster Energy Anti Gravity",
+      "name": "Anti Gravity",
       "imageUrl": "https://www.listchallenges.com/f/items/8c7b7a31-f885-4922-86a9-33450978eb78.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1138,7 +1130,7 @@
     },
     {
       "id": 143,
-      "name": "Monster Nitro Super Dry",
+      "name": "Nitro Super Dry",
       "imageUrl": "https://www.listchallenges.com/f/items2021/d0f478e0-38d6-45c5-b60c-9ed921dec01c.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1146,7 +1138,7 @@
     },
     {
       "id": 144,
-      "name": "Monster Mutant Red Dawn",
+      "name": "Mutant Red Dawn",
       "imageUrl": "https://www.listchallenges.com/f/items2020/ee4e7679-717b-4713-9182-ec3b91d13c9a.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1154,7 +1146,7 @@
     },
     {
       "id": 145,
-      "name": "Monster Mutant White Lightning",
+      "name": "Mutant White Lightning",
       "imageUrl": "https://www.listchallenges.com/f/items2020/a02dad86-da4b-4afa-b63d-f71987d52caf.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1162,7 +1154,7 @@
     },
     {
       "id": 146,
-      "name": "Monster Mutant Original Green",
+      "name": "Mutant Original Green",
       "imageUrl": "https://www.listchallenges.com/f/items2020/1f41d0d3-d79c-4b6f-a1cb-64d1cda0633f.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1170,7 +1162,7 @@
     },
     {
       "id": 147,
-      "name": "Monster Mutant Gold Strike",
+      "name": "Mutant Gold Strike",
       "imageUrl": "https://www.listchallenges.com/f/items2020/0a6db43f-b683-4c61-995f-35342bc2f585.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1178,7 +1170,7 @@
     },
     {
       "id": 148,
-      "name": "Monster Mutant Red Dawn",
+      "name": "Mutant Red Dawn",
       "imageUrl": "https://www.listchallenges.com/f/items2020/150a720c-ad8e-4474-9159-d2774d0c74ca.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1186,7 +1178,7 @@
     },
     {
       "id": 149,
-      "name": "Monster Mutant",
+      "name": "Mutant",
       "imageUrl": "https://www.listchallenges.com/f/items2022/bc1ee191-36df-4fec-bfb5-0acf524f9de1.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1194,7 +1186,7 @@
     },
     {
       "id": 150,
-      "name": "Monster Energy Absolutely Zero",
+      "name": "Absolutely Zero No Calorie",
       "imageUrl": "https://www.listchallenges.com/f/items2020/1f3f8631-2b52-4b50-82f4-20914f7513fe.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1202,7 +1194,7 @@
     },
     {
       "id": 151,
-      "name": "Monster Energy Absolutely Zero",
+      "name": "Absolutely Zero",
       "imageUrl": "https://www.listchallenges.com/f/items2020/9053cdca-7375-4e1f-9f4d-e0fcb18858fc.jpg",
       "type": "Energy",
       "price": 2.99,
@@ -1210,7 +1202,7 @@
     },
     {
       "id": 152,
-      "name": "The Original Zero-Sugar Monster Energy",
+      "name": "The Original Zero-Sugar",
       "imageUrl": "https://www.listchallenges.com/f/items2021/4eacf028-932d-4390-ad61-30a9010c88de.jpg",
       "type": "Energy",
       "price": 2.99,
