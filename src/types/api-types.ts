@@ -92,6 +92,8 @@ export interface operations {
                 name?: string;
                 /** @description Minimum price required (filters out cheaper products). */
                 minPrice?: number;
+                /** @description Maximum price allowed (filters out more expensive products). */
+                maxPrice?: number;
             };
             header?: never;
             path?: never;
