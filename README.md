@@ -1,10 +1,10 @@
-# HoudMonster API
+# HoudiMonster API
 
-HoudMonster API is built with NestJS and provides endpoints to retrieve information about various Monster Energy drinks, including their flavors, nutritional information, and caffeine content.
+HoudiMonster API is built with NestJS and provides endpoints to retrieve information about various Monster Energy drinks, including their flavors, nutritional information, and caffeine content.
 
 ## Routes
 
-- `GET /monsters?name=''&type=''&minPrice=2` - Retrieve a list of all Monster Energy drinks with optional filters for name, type, and minimum price.
+- `GET /monsters?name=''&type=''&minPrice=2&maxPrice=5` - Retrieve a list of all Monster Energy drinks with optional filters for name, type, and minimum/maximum price.
 - `GET /monsters/:id` - Retrieve detailed information about a specific Monster Energy drink by its ID.
 - `GET /monsters/type/:type` - Retrieve Monster Energy drinks filtered by type (e.g., Ultra, Punch, Energy).
 

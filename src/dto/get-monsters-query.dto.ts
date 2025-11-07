@@ -2,6 +2,7 @@ import { ApiPropertyOptional } from '@nestjs/swagger';
 import { IsEnum, IsNumber, IsOptional, IsString, Min } from 'class-validator';
 import { MonsterType } from '../types/types';
 import { VALID_MONSTER_TYPES } from 'constants/const';
+import { Type } from 'class-transformer';
 
 export class GetMonstersQueryDto {
   @ApiPropertyOptional({
@@ -26,7 +27,18 @@ export class GetMonstersQueryDto {
     example: 2.5,
   })
   @IsOptional()
+  @Type(() => Number)
   @IsNumber()
   @Min(0)
   minPrice?: number;
+
+  @ApiPropertyOptional({
+    description: 'Maximum price allowed (filters out more expensive products).',
+    example: 5.0,
+  })
+  @IsOptional()
+  @Type(() => Number)
+  @IsNumber()
+  @Min(0)
+  maxPrice?: number;
 }

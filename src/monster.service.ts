@@ -25,6 +25,10 @@ export class MonsterService {
       monsters = monsters.filter((m) => m.price >= query.minPrice);
     }
 
+    if (query?.maxPrice !== undefined) {
+      monsters = monsters.filter((m) => m.price <= query.maxPrice);
+    }
+
     return monsters;
   }
 
