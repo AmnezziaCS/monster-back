@@ -2,6 +2,48 @@
 
 HoudiMonster API is built with NestJS and provides endpoints to retrieve information about various Monster Energy drinks, including their flavors, nutritional information, and caffeine content.
 
+## Database Setup
+
+This application uses PostgreSQL with Prisma ORM. The database can be run using Docker Compose.
+
+### Prerequisites
+
+- Docker and Docker Compose
+- Node.js (version 18 or higher)
+
+### Database Setup Steps
+
+1. **Start the PostgreSQL database**:
+
+```bash
+docker-compose up -d postgres
+```
+
+2. **Generate Prisma client**:
+
+```bash
+npm run db:generate
+```
+
+3. **Push the database schema**:
+
+```bash
+npm run db:push
+```
+
+4. **Seed the database with Monster data**:
+
+```bash
+npm run db:seed
+```
+
+### Database Commands
+
+- `npm run db:generate` - Generate Prisma client
+- `npm run db:push` - Push schema changes to database
+- `npm run db:migrate` - Run database migrations
+- `npm run db:seed` - Seed database with initial data
+
 ## Routes
 
 - `GET /monsters?name=''&type=''&minPrice=2&maxPrice=5` - Retrieve a list of all Monster Energy drinks with optional filters for name, type, and minimum/maximum price.
@@ -52,7 +94,7 @@ $ npm run start:prod
 
 ### Test
 
-```**bash**
+```bash
 # unit tests
 $ npm run test
 

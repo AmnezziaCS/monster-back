@@ -5,6 +5,7 @@ import {
   Param,
   ParseIntPipe,
   Query,
+  NotFoundException,
 } from '@nestjs/common';
 import { MonsterService } from './monster.service';
 import { ApiTags, ApiParam, ApiOkResponse } from '@nestjs/swagger';
@@ -19,14 +20,22 @@ export class MonsterController {
 
   @Get('/monsters')
   @ApiOkResponse({ type: [MonsterDto] })
-  getAllMonsters(@Query() query: GetMonstersQueryDto): MonsterDto[] {
+  async getAllMonsters(
+    @Query() query: GetMonstersQueryDto,
+  ): Promise<MonsterDto[]> {
     return this.monsterService.getAllMonsters(query);
   }
 
   @Get('/monsters/:id')
   @ApiOkResponse({ type: MonsterDto })
-  getMonsterById(@Param('id', ParseIntPipe) id: number): MonsterDto {
-    return this.monsterService.getMonsterById(id);
+  async getMonsterById(
+    @Param('id', ParseIntPipe) id: number,
+  ): Promise<MonsterDto> {
+    const monster = await this.monsterService.getMonsterById(id);
+    if (!monster) {
+      throw new NotFoundException(`Monster with ID ${id} not found`);
+    }
+    return monster;
   }
 
   @Get('/monsters/type/:type')
@@ -37,7 +46,9 @@ export class MonsterController {
     example: 'Ultra',
     description: 'Monster product type (e.g., Ultra, Punch, Energy).',
   })
-  getAllMonstersFromType(@Param('type') type: string): MonsterDto[] {
+  async getAllMonstersFromType(
+    @Param('type') type: string,
+  ): Promise<MonsterDto[]> {
     const normalized = type.trim().toLowerCase();
 
     const matchedType = VALID_MONSTER_TYPES.find(
@@ -52,6 +63,6 @@ export class MonsterController {
       );
     }
 
-    return this.monsterService.getAllMonsters({ type: matchedType });
+    return this.monsterService.getAllMonstersFromType(matchedType);
   }
 }
