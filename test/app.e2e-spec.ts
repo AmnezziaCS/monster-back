@@ -32,15 +32,10 @@ describe('MonsterController (e2e)', () => {
   });
 
   it('/monsters (GET)', () => {
-    return request(app.getHttpServer())
-      .get('/monsters')
-      .expect(200)
-      .expect([]);
+    return request(app.getHttpServer()).get('/monsters').expect(200).expect([]);
   });
 
   it('/monsters/123 (GET) - not found', () => {
-    return request(app.getHttpServer())
-      .get('/monsters/123')
-      .expect(404);
+    return request(app.getHttpServer()).get('/monsters/123').expect(404);
   });
 });
