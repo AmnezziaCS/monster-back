@@ -24,6 +24,7 @@ RUN npm install --only=production --ignore-scripts
 COPY --from=builder /app/dist ./dist
 COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
 COPY prisma ./prisma
+COPY data ./data
 
 EXPOSE 3000
 
