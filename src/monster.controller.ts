@@ -10,6 +10,7 @@ import {
 import { MonsterService } from './monster.service';
 import { ApiTags, ApiParam, ApiOkResponse } from '@nestjs/swagger';
 import { MonsterDto } from './dto/monster.dto';
+import { PriceRangeDto } from './dto/price-range.dto';
 import { VALID_MONSTER_TYPES } from 'constants/const';
 import { GetMonstersQueryDto } from 'dto/get-monsters-query.dto';
 
@@ -24,6 +25,12 @@ export class MonsterController {
     @Query() query: GetMonstersQueryDto,
   ): Promise<MonsterDto[]> {
     return this.monsterService.getAllMonsters(query);
+  }
+
+  @Get('/monsters/price-range')
+  @ApiOkResponse({ type: PriceRangeDto })
+  async getPriceRange(): Promise<PriceRangeDto> {
+    return this.monsterService.getPriceRange();
   }
 
   @Get('/monsters/:id')

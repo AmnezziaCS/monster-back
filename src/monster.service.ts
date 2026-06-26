@@ -61,6 +61,18 @@ export class MonsterService {
     return prismaMonster ? this.transformPrismaMonster(prismaMonster) : null;
   }
 
+  async getPriceRange(): Promise<{ min: number; max: number }> {
+    const result = await this.prisma.monster.aggregate({
+      _min: { price: true },
+      _max: { price: true },
+    });
+
+    return {
+      min: result._min.price ?? 0,
+      max: result._max.price ?? 0,
+    };
+  }
+
   async getAllMonstersFromType(type: MonsterType): Promise<Monster[]> {
     const prismaMonsters = await this.prisma.monster.findMany({
       where: { type },

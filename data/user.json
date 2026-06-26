@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "username": "admin", "password": "admin", "isAdmin": true },
+    { "username": "jdoe", "password": "password123", "isAdmin": false },
+    { "username": "msmith", "password": "monster2024", "isAdmin": false },
+    { "username": "guest", "password": "guest", "isAdmin": false }
+  ]
+}

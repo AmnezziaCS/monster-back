@@ -14,3 +14,13 @@ export type Monster = {
 export interface MonsterData {
   products: Monster[];
 }
+
+export type User = {
+  username: string;
+  password: string;
+  isAdmin: boolean;
+};
+
+export interface UserData {
+  users: User[];
+}

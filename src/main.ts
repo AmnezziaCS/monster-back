@@ -7,7 +7,10 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 
 async function bootstrap() {
-  const app = await NestFactory.create(MonsterModule);
+  const app = await NestFactory.create(MonsterModule, {
+    cors: true,
+  });
+
   app.useGlobalPipes(
     new ValidationPipe({
       transform: true,
